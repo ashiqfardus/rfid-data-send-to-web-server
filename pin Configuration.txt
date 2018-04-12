@@ -1,0 +1,9 @@
+NodeMCU				MFRC522
+D1				RST
+D5				SCK
+D6				MISO
+D7				MOSI
+D8				SDA(SS)
+
+
+Define RST 5 AND SS 15
