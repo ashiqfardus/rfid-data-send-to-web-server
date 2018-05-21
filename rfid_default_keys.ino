@@ -6,9 +6,9 @@
 #define RST_PIN         5           // Configurable, see typical pin layout above
 #define SS_PIN          15          // Configurable, see typical pin layout above
 
-const char* ssid = "Mandho Bhoot";
-const char* password = "uuaaeeuu00";
-const char* host="ashiqfardus.000webhostapp.com";
+const char* ssid = "Enter ssid";
+const char* password = "ssid password";
+const char* host="Enter host Ex: google.com";
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);   // Create MFRC522 instance.
 /*
